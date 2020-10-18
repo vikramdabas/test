@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "serial_number": 112312,
+      "key_val": "hello",
+      "model": "modelasa",
+      "sku": "sku_12132",
+      "fcc": "fcc_12321"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
